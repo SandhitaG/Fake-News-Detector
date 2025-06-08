@@ -29,7 +29,8 @@ This tool is built to help users identify misinformation and promote awareness i
 3. A **Logistic Regression** classifier is trained and saved using Pickle.
 
 ## Running the App
-Install dependencies:pip install -r requirements.txt
+Install dependencies:
+pip install -r requirements.txt
 
 ## Run the Streamlit app:
 cd App
