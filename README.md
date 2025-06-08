@@ -36,5 +36,5 @@ pip install -r requirements.txt
 cd App
 python -m streamlit run streamlit_app.py
 
-##Model Performance
+## Model Performance
 Accuracy: 98.5%
