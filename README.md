@@ -1,4 +1,5 @@
 # Fake News Detector
+![image](https://github.com/user-attachments/assets/b552646f-8eb0-45ac-8f2f-b368ff070260)
 
 A machine learning-based web application that detects whether a news article is **Real** or **Fake** using Natural Language Processing (NLP).
 
@@ -38,3 +39,4 @@ cd App
 
 ## Model Performance
 Accuracy: 98.5%
+
